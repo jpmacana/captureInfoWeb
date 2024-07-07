@@ -57,7 +57,7 @@ await page.goto("https://www.google.com.ar/");
 <p>Una vez que modificamos esto a nuestra necesidad, abrimos una terminal y ejecutamos el script, de la siguiente manera</p>
 
 ``` Node
-        node capture.msj
+node capture.msj
 ```
 
 
